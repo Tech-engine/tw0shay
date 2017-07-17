@@ -1,0 +1,7 @@
+C:\Users\Deepak pc\Documents\Visual Studio 2010\Projects\wordparser\wordparser\bin\Debug\wordparser.exe
+C:\Users\Deepak pc\Documents\Visual Studio 2010\Projects\wordparser\wordparser\bin\Debug\wordparser.pdb
+C:\Users\Deepak pc\Documents\Visual Studio 2010\Projects\wordparser\wordparser\bin\Debug\Aspose.Words.dll
+C:\Users\Deepak pc\Documents\Visual Studio 2010\Projects\wordparser\wordparser\bin\Debug\Aspose.Words.xml
+C:\Users\Deepak pc\Documents\Visual Studio 2010\Projects\wordparser\wordparser\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Deepak pc\Documents\Visual Studio 2010\Projects\wordparser\wordparser\obj\x86\Debug\wordparser.exe
+C:\Users\Deepak pc\Documents\Visual Studio 2010\Projects\wordparser\wordparser\obj\x86\Debug\wordparser.pdb
