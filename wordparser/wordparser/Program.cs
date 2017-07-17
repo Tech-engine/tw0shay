@@ -351,7 +351,7 @@ public class tblparam
             return final_output;
         }// try
         catch{
-            return "Some erroe occured";
+            return "Some error occured";
         }
 
     }
